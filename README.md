@@ -2,6 +2,17 @@
 
 Um chatbot inteligente que permite consultar bancos de dados MySQL usando linguagem natural em português. O sistema converte perguntas em SQL, executa as consultas e gera visualizações automáticas dos resultados.
 
+## 🎥 Demonstração
+
+**[📹 Assista à demonstração completa (NL2SQL.mp4)](./NL2SQL.mp4)**
+
+<video width="100%" controls>
+  <source src="./NL2SQL.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo. <a href="./NL2SQL.mp4">Clique aqui para baixar o vídeo</a>.
+</video>
+
+*Demonstração mostrando consultas em linguagem natural sendo convertidas em SQL e visualizações*
+
 ## Funcionalidades
 
 - **Consultas em Linguagem Natural**: Faça perguntas em português sobre seus dados
