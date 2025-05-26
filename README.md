@@ -4,14 +4,22 @@ Um chatbot inteligente que permite consultar bancos de dados MySQL usando lingua
 
 ## 🎥 Demonstração
 
-**[📹 Assista à demonstração completa (NL2SQL.mp4)](./NL2SQL.mp4)**
+<div align="center">
 
-<video width="100%" controls>
-  <source src="./NL2SQL.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo. <a href="./NL2SQL.mp4">Clique aqui para baixar o vídeo</a>.
-</video>
+![ChatSQL Demo](./NL2SQL.gif)
 
-*Demonstração mostrando consultas em linguagem natural sendo convertidas em SQL e visualizações*
+*Demonstração do ChatSQL convertendo perguntas em linguagem natural para SQL e gerando visualizações*
+
+**[📹 Vídeo completo em alta qualidade (NL2SQL.mp4)](./NL2SQL.mp4)**
+
+</div>
+
+**O que você vê na demonstração:**
+- ✅ Interface intuitiva do Streamlit
+- ✅ Perguntas em português sendo processadas
+- ✅ Geração automática de consultas SQL
+- ✅ Visualizações criadas dinamicamente
+- ✅ Explicações contextuais dos resultados
 
 ## Funcionalidades
 
